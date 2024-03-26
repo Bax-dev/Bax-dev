@@ -23,4 +23,4 @@ Here are some of the technologies I work with:
 - 🌱 Sustainable Technology
 
 ## Get in Touch
-📫 How to reach me: basseyeyo991@gmail.com| LinkedIn:https://t.co/TrsiTkA2NT
+📫 How to reach me: basseyeyo991@gmail.com | LinkedIn:https://t.co/TrsiTkA2NT
