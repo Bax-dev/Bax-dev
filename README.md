@@ -3,7 +3,7 @@
 🚀 Full Stack Developer | 🤖 Mechatronics Engineer | 📚 Lifelong Learner | 📊 Data Analyst
 
 ## About Me
-I'm passionate about building scalable web applications and exploring new technologies. Currently, I'm focusing on mastering Cloud Development.
+I'm a passionate full-stack developer with a deep interest in programming, website development, and microcontroller code design. My expertise spans across a range of technologies including HTML, CSS, JavaScript, Python, MySQL, Java, and AWS. I enjoy turning complex problems into elegant solutions and crafting digital experiences that are both functional and beautiful.
 
 ## Tech Stack
 Here are some of the technologies I work with:
