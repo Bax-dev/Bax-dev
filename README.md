@@ -24,3 +24,10 @@ Here are some of the technologies I work with:
 
 ## Get in Touch
 📫 How to reach me: basseyeyo991@gmail.com | LinkedIn:https://t.co/TrsiTkA2NT
+
+## My Medium Articles
+
+- [CRUD Operations in Python APIs: The Magic Behind the Scenes](https://medium.com/@basseyeyo991/in-the-digital-age-where-apps-and-websites-seem-to-know-our-every-need-theres-a-simple-yet-d76315a648ee)
+- [Understanding CORS (Cross-Origin Resource Sharing) with Django](https://medium.com/@basseyeyo991/using-django-rest-framework-to-build-apis-cb259076056c)
+- [USING DJANGO REST FRAMEWORK TO BUILD APIs]([https://medium.com/@yourusername/the-evolution-of-web-development-in-the-last-decade-123456789abc](https://medium.com/@basseyeyo991/using-django-rest-framework-to-build-apis-cb259076056c))
+
