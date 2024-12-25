@@ -15,7 +15,8 @@ Here are some of the technologies I work with:
 ![SQL](https://img.icons8.com/ios-filled/50/000000/database.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/material-rounded/50/000000/github.png)
-![image](https://github.com/user-attachments/assets/6a1c2957-3d8b-4dff-822d-1364f2f6acb8)
+![image](https://github.com/user-attachments/assets/e5692392-7897-4314-a2f2-c1af23201983)
+
 
 
 ## Interests
