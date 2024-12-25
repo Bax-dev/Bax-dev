@@ -12,7 +12,7 @@ Here are some of the technologies I work with:
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![SQL](https://img.icons8.com/ios-filled/50/000000/database.png)
+![image](https://github.com/user-attachments/assets/d343e4b0-f451-47e1-9b22-327055e26bf8)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/material-rounded/50/000000/github.png)
 ![image](https://github.com/user-attachments/assets/e5692392-7897-4314-a2f2-c1af23201983)
