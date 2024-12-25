@@ -32,5 +32,5 @@ Here are some of the technologies I work with:
 
 - [CRUD Operations in Python APIs: The Magic Behind the Scenes](https://medium.com/@basseyeyo991/in-the-digital-age-where-apps-and-websites-seem-to-know-our-every-need-theres-a-simple-yet-d76315a648ee)
 - [Understanding CORS (Cross-Origin Resource Sharing) with Django](https://medium.com/@basseyeyo991/using-django-rest-framework-to-build-apis-cb259076056c)
-- [USING DJANGO REST FRAMEWORK TO BUILD APIs]([https://medium.com/@yourusername/the-evolution-of-web-development-in-the-last-decade-123456789abc](https://medium.com/@basseyeyo991/using-django-rest-framework-to-build-apis-cb259076056c))
+- [Building Your First Web3 Project : Donating on the Blockchain (and Saving Christmas!](https://medium.com/@basseyeyo991/building-your-first-web3-project-donating-on-the-blockchain-and-saving-christmas-306b7046f757)
 
